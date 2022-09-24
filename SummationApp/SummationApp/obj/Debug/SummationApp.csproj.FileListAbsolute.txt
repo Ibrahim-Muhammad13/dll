@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SummationApp\SummationApp\bin\Debug\SummationApp.exe.config
+C:\Users\DELL\source\repos\SummationApp\SummationApp\bin\Debug\SummationApp.exe
+C:\Users\DELL\source\repos\SummationApp\SummationApp\bin\Debug\SummationApp.pdb
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.Form1.resources
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.exe
+C:\Users\DELL\source\repos\SummationApp\SummationApp\obj\Debug\SummationApp.pdb
